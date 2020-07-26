@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on GuangZhou,China
+- 🌱 I’m currently learning architecture, monitoring, .net core, golang .etc.
+- 📫 How to reach me: catcher_hwq@outlook.com
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=catcherwong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
