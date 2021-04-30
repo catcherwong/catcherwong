@@ -15,10 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Catcher Wong, woking on an Internet medical company as an architect, also an open source enthusiast.
 
-- 🔭 I’m currently working on GuangZhou,China
-- 🌱 I’m currently learning architecture, monitoring, .net core, golang .etc.
-- 📫 How to reach me: catcher_hwq@outlook.com
+- 👨‍💻 PMC of [EasyCaching](https://github.com/dotnetcore/EasyCaching)
+- 🔭 Committer of [nacos-sdk-csharp](https://github.com/nacos-group/nacos-sdk-csharp)
+- 🌱 Currently learning Architecture, Monitoring, .NET Core, Golang .etc.
+- 📫 Reach me with catcher_hwq@outlook.com
 
+![catcherwong's github stats](https://github-readme-stats.vercel.app/api?username=catcherwong&show_icons=true)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=catcherwong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Below are some of the blogs I have published:
+
+- https://www.cnblogs.com/catcher1994/
+- https://www.zhihu.com/column/c_1278847485536960512
+- https://www.c-sharpcorner.com/members/catcher-wong
+- https://www.yuque.com/catcherwong/vhdmwb
+- WeChat Official Accounts : catcherwong24
