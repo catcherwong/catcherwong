@@ -30,4 +30,4 @@ Below are some of the blogs I have published:
 - https://www.c-sharpcorner.com/members/catcher-wong
 - WeChat Official Accounts : catcherwong24
 
-If you have good job opportunities (based in Guangzhou or remote), you can also contact me 😄
+If you have good job opportunities (based in Guangzhou or remote), please contact me 😄
