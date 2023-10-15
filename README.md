@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Catcher Wong, woking on an Internet medical company as an architect, also an open source enthusiast.
 
 - 👨‍💻 PMC of [EasyCaching](https://github.com/dotnetcore/EasyCaching)
-- 🔭 Committer of [nacos-sdk-csharp](https://github.com/nacos-group/nacos-sdk-csharp)
+- 🔭 Committer of [nacos-sdk-csharp](https://github.com/nacos-group/nacos-sdk-csharp), [dtm-labs/client-csharp](https://github.com/dtm-labs/client-csharp)
 - 🌱 Currently learning Architecture, Monitoring, .NET Core, Golang .etc.
 - 📫 Reach me with catcher_hwq@outlook.com
 
@@ -27,7 +27,7 @@ My name is Catcher Wong, woking on an Internet medical company as an architect, 
 Below are some of the blogs I have published:
 
 - https://www.cnblogs.com/catcher1994/
-- https://www.zhihu.com/column/c_1278847485536960512
 - https://www.c-sharpcorner.com/members/catcher-wong
-- https://www.yuque.com/catcherwong/vhdmwb
 - WeChat Official Accounts : catcherwong24
+
+If you have good job opportunities (based in Guangzhou or remote), you can also contact me 😄
