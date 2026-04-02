@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Catcher Wong, woking on an Internet medical company as an architect, also an open source enthusiast.
+My name is Catcher Wong, woking on an IoT company as an architect, also an open source enthusiast.
 
 - 👨‍💻 PMC of [EasyCaching](https://github.com/dotnetcore/EasyCaching)
 - 🔭 Committer of [nacos-sdk-csharp](https://github.com/nacos-group/nacos-sdk-csharp), [dtm-labs/client-csharp](https://github.com/dtm-labs/client-csharp)
-- 🌱 Currently learning Architecture, Monitoring, .NET Core, Golang .etc.
+- 🌱 Currently learning Architecture, Monitoring, IoT, AWS .etc.
 - 📫 Reach me with catcher_hwq@outlook.com
 
 ![catcherwong's github stats](https://github-readme-stats.vercel.app/api?username=catcherwong&show_icons=true)
